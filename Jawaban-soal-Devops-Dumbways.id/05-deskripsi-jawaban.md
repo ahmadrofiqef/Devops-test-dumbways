@@ -1,4 +1,6 @@
-5. Jika saat ini Kamu adalah seorang DevOps di sebuah perusahaan, bagaimana caramu mengamankan server-server tersebut? Gambarkan dan jelaskan!
+Soal 5. 
+
+Jika saat ini Kamu adalah seorang DevOps di sebuah perusahaan, bagaimana caramu mengamankan server-server tersebut? Gambarkan dan jelaskan!
 
 Jawaban :
 
