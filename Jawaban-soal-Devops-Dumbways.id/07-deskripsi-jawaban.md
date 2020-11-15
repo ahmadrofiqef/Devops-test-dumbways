@@ -1,4 +1,6 @@
-7. Menurut kamu, apa itu DNS dan bagaimana cara kerjanya? Sertakan gambaran umumnya
+Soal 7. 
+
+Menurut kamu, apa itu DNS dan bagaimana cara kerjanya? Sertakan gambaran umumnya
 
 Jawaban :
 
