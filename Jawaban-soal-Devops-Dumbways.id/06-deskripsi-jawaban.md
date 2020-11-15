@@ -1,3 +1,5 @@
+Soal 6.
+
 Jika kamu menjadi seorang DevOps di sebuah perusahaan dan kamu ditugaskan untuk memonitoring server, tools apa saja yang akan kamu gunakan serta berikan 
 keuntungan menggunakan tools tersebut?
 
