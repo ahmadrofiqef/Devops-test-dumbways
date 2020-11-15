@@ -1,4 +1,6 @@
-3.Dalam praktiknya seorang DevOps akan menggunakan web server dalam setiap proses deployment, baik itu untuk kebutuhan load balancing dan konfigurasi SSL. Menurut kamu, apa itu load balancing, SSL serta berikan contoh-contoh web server yang kamu ketahui?
+Soal 3.
+
+Dalam praktiknya seorang DevOps akan menggunakan web server dalam setiap proses deployment, baik itu untuk kebutuhan load balancing dan konfigurasi SSL. Menurut kamu, apa itu load balancing, SSL serta berikan contoh-contoh web server yang kamu ketahui?
 
 Jawaban :
 
