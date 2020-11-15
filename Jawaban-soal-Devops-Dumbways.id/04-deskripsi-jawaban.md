@@ -1,4 +1,6 @@
-4.Jelaskan perbedaan mencolok antara Docker dengan VMware, serta berikan penjelasan kapan kita harus menggunakan Docker dan VMware?
+Soal 4.
+
+Jelaskan perbedaan mencolok antara Docker dengan VMware, serta berikan penjelasan kapan kita harus menggunakan Docker dan VMware?
 
 Jawaban :
 
