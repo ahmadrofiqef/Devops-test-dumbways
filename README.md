@@ -1,8 +1,8 @@
 # Devops-Test-Dumbways.id
 
 Operating System : 
-Windows 10
-WSL (Windows Subsystem for Linux) Ubuntu 18.04 LTS
+Windows 10;
+WSL (Windows Subsystem for Linux) Ubuntu 18.04 LTS;
 
 Sumber Artikel :
 https://blog.cilsy.id/2018/07/apa-itu-devops.html
