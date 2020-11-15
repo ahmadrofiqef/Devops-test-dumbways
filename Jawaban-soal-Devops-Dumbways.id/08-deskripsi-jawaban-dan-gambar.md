@@ -1,4 +1,4 @@
-8. Buatlah sebuah server sederhana menggunakan web server di komputer kamu, kemudian setting web server tersebut menjadi domain dumbways-namakamu.xyz!  
+8.Buatlah sebuah server sederhana menggunakan web server di komputer kamu, kemudian setting web server tersebut menjadi domain dumbways-namakamu.xyz!  
 Dilarang menggunakan XAMPP, IIS, Laragon, AMPPS dan aplikasi sejenisnya . Sertakan screenshot step by step-nya atau record menjadi sebuah video
 
 Jawaban : 
