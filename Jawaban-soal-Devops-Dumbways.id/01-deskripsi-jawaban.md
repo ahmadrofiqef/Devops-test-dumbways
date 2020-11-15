@@ -1,6 +1,8 @@
 1.Dalam sebuah perusahaan Andi bekerja sebagai DevOps, jelaskan menurut pendapatmu definisi tentang DevOps dan seberapa penting DevOps di suatu perusahaan 
 serta gambarkan flow DevOps dari development hingga ke production?
+
 Jawaban :
+
 DevOps sangat penting karena lingkup kerja devops yaitu menjembatani Developer (Pengembang) dan Operation (Test, build, deploy) dan bertanggung jawab dalam 
 merancang, mengembangkan, memecahkan masalah dan memastikan semua program berjalan dengan baik, efisien dan minim error. Jadi andi bertanggung jawab atas mempercepat 
 proses develop serta mengurangi resiko kegagalan. 
